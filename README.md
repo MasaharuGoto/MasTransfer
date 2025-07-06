@@ -1,5 +1,6 @@
 # MasTransfer
 Repository of the team MasTransfer in 6th [Kibo-RPC](https://jaxa.krpc.jp/)
+This project is built on the official template provided by JAXA.
 
 # 環境構築Tips
 [Apple Silicon Macでの環境構築](setup_for_applesilicon.md)
